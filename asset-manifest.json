@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/My_Portfolio/static/css/main.3b4e6599.css",
-    "main.js": "/My_Portfolio/static/js/main.da117005.js",
+    "main.js": "/My_Portfolio/static/js/main.53e20042.js",
     "static/css/487.bb36206c.chunk.css": "/My_Portfolio/static/css/487.bb36206c.chunk.css",
     "static/js/487.50409013.chunk.js": "/My_Portfolio/static/js/487.50409013.chunk.js",
     "static/css/990.c6a7ee28.chunk.css": "/My_Portfolio/static/css/990.c6a7ee28.chunk.css",
     "static/js/990.859bc490.chunk.js": "/My_Portfolio/static/js/990.859bc490.chunk.js",
     "static/media/OSMS.png": "/My_Portfolio/static/media/OSMS.98a3078113491320c16f.png",
     "static/media/Montserrat-Regular.ttf": "/My_Portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
-    "static/media/resume.pdf": "/My_Portfolio/static/media/resume.5199ccaa96a1847c6e10.pdf",
+    "static/media/resume.pdf": "/My_Portfolio/static/media/resume.7194c14aac2a3399621f.pdf",
     "static/media/CMS.png": "/My_Portfolio/static/media/CMS.89826c5a04e71140b751.png",
     "static/media/OLMS.png": "/My_Portfolio/static/media/OLMS.4262529a39cd9af4aabf.png",
     "static/media/Uom.png": "/My_Portfolio/static/media/Uom.4ac81fce801bfb7352f0.png",
@@ -21,7 +21,7 @@
     "static/media/skill.svg": "/My_Portfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "index.html": "/My_Portfolio/index.html",
     "main.3b4e6599.css.map": "/My_Portfolio/static/css/main.3b4e6599.css.map",
-    "main.da117005.js.map": "/My_Portfolio/static/js/main.da117005.js.map",
+    "main.53e20042.js.map": "/My_Portfolio/static/js/main.53e20042.js.map",
     "487.bb36206c.chunk.css.map": "/My_Portfolio/static/css/487.bb36206c.chunk.css.map",
     "487.50409013.chunk.js.map": "/My_Portfolio/static/js/487.50409013.chunk.js.map",
     "990.c6a7ee28.chunk.css.map": "/My_Portfolio/static/css/990.c6a7ee28.chunk.css.map",
@@ -29,6 +29,6 @@
   },
   "entrypoints": [
     "static/css/main.3b4e6599.css",
-    "static/js/main.da117005.js"
+    "static/js/main.53e20042.js"
   ]
 }
