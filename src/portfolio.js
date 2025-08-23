@@ -264,6 +264,17 @@ const bigProjects = {
           url: "https://github.com/Ashen-Tharindu/College-Management-System"
         }
       ]
+    },
+    {
+      image: require("./assets/images/DABS.png"),
+      projectName: "Doctor Appointment Booking System",
+      projectDesc: "A full-stack doctor appointment booking platform built with React.js, Node.js, Express, and MySQL. Includes role-based dashboards (Admin, Doctor, Patient), live queue management with real-time updates, booking tools (search, receipt download, resend confirmation), and refund request workflows.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://github.com/Ashen-Tharindu/Doctor-Appointment-Booking-System"
+        }
+      ]
     }
   ],
   display: true // Set false to hide this section, defaults to true
