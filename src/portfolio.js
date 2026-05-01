@@ -23,10 +23,10 @@ const greeting = {
   username: "Ashen Tharindu",
   title: "Hi all, I'm Ashen",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 Building web applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks and learning cutting-edge technologies."
+    "Full-Stack Software Engineer | Custom Software (POS/ERP) | WordPress & SEO Expert. I specialize in building modern, scalable web applications using the MERN stack and crafting tailored digital solutions to help businesses succeed."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1XvREGUvAIB-7TqzcVZavCtTDBgbV3lkk/view?usp=drive_link", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1loNI7V3ySTTdaeSVqT0e4UTSTnv5Z1Fg/view?usp=drive_link", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -49,99 +49,57 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "PASSIONATE FULL-STACK DEVELOPER & SERVER ADMINISTRATOR EXPLORING MODERN TECH STACKS",
   skills: [
-    emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
-    ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
-    emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
-    )
+    emoji("⚡ Building responsive, highly interactive Single-Page Applications (SPA) and PWAs using React.js and modern frontend technologies."),
+    emoji("⚡ Developing scalable full-stack web applications, custom ERP solutions, and offline/online Point of Sale (POS) systems."),
+    emoji("⚡ Crafting fully optimized, custom WordPress websites integrated with advanced technical SEO strategies for business growth."),
+    emoji("⚡ Managing end-to-end deployments on dedicated servers, including WHM/cPanel configurations and third-party API integrations."),
+    emoji("⚡ Handling seamless website migrations, domain routing, SSL configurations, and database restorations.")
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
 https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
-    {
-      skillName: "html-5",
-      fontAwesomeClassname: "fab fa-html5"
-    },
-    {
-      skillName: "css3",
-      fontAwesomeClassname: "fab fa-css3-alt"
-    },
-    {
-      skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
-    },
-    {
-      skillName: "JavaScript",
-      fontAwesomeClassname: "fab fa-js"
-    },
-    {
-      skillName: "reactjs",
-      fontAwesomeClassname: "fab fa-react"
-    },
-    {
-      skillName: "nodejs",
-      fontAwesomeClassname: "fab fa-node"
-    },
-    {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
-    },
-    {
-      skillName: "npm",
-      fontAwesomeClassname: "fab fa-npm"
-    },
-    {
-      skillName: "sql-database",
-      fontAwesomeClassname: "fas fa-database"
-    },
-    {
-      skillName: "aws",
-      fontAwesomeClassname: "fab fa-aws"
-    },
-    {
-      skillName: "firebase",
-      fontAwesomeClassname: "fas fa-fire"
-    },
-    {
-      skillName: "python",
-      fontAwesomeClassname: "fab fa-python"
-    },
-    {
-      skillName: "docker",
-      fontAwesomeClassname: "fab fa-docker"
-    },
-    {
-      skillName: "MySQL",
-      fontAwesomeClassname: "fab fa-MySQL"
-    },
-    {
-      skillName: "C++",
-      fontAwesomeClassname: "fab fa-C++"
-    },
-    {
-      skillName: "Java",
-      fontAwesomeClassname: "fab fa-Java"
-    },
-    {
-      skillName: "C#",
-      fontAwesomeClassname: "fab fa-C#"
-    },
-    {
-      skillName: "PHP",
-      fontAwesomeClassname: "logos:php"
-    },
-    {
-      skillName: "Git",
-      fontAwesomeClassname: "fab fa-Git"
-    }
-  ],
-  display: true // Set false to hide this section, defaults to true
+    // Frontend & UI
+    { skillName: "HTML-5", fontAwesomeClassname: "fab fa-html5" },
+    { skillName: "CSS-3", fontAwesomeClassname: "fab fa-css3-alt" },
+    { skillName: "Sass", fontAwesomeClassname: "fab fa-sass" },
+    { skillName: "JavaScript", fontAwesomeClassname: "fab fa-js" },
+    { skillName: "React.js", fontAwesomeClassname: "fab fa-react" },
+    { skillName: "Electron.js", fontAwesomeClassname: "fas fa-desktop" },
+    
+    // Backend & Core
+    { skillName: "Node.js", fontAwesomeClassname: "fab fa-node" },
+    { skillName: "Express.js", fontAwesomeClassname: "fas fa-server" },
+    { skillName: "PHP", fontAwesomeClassname: "fab fa-php" },
+    { skillName: "Python", fontAwesomeClassname: "fab fa-python" },
+    { skillName: "Java", fontAwesomeClassname: "fab fa-java" },
+    
+    // Databases
+    { skillName: "MongoDB", fontAwesomeClassname: "fas fa-leaf" },
+    { skillName: "MySQL", fontAwesomeClassname: "fas fa-database" },
+    { skillName: "SQLite", fontAwesomeClassname: "fas fa-hdd" },
+    
+    // CMS & Marketing
+    { skillName: "WordPress", fontAwesomeClassname: "fab fa-wordpress" },
+    { skillName: "SEO Optimization", fontAwesomeClassname: "fas fa-chart-line" },
+    
+    // Cloud & BaaS
+    { skillName: "AWS", fontAwesomeClassname: "fab fa-aws" },
+    { skillName: "Microsoft Azure", fontAwesomeClassname: "fab fa-microsoft" },
+    { skillName: "DigitalOcean", fontAwesomeClassname: "fab fa-digital-ocean" },
+    { skillName: "Firebase", fontAwesomeClassname: "fas fa-fire" },
+    
+    // Server Administration
+    { skillName: "cPanel & WHM", fontAwesomeClassname: "fas fa-cogs" },
+    
+    // DevOps & Tools
+    { skillName: "Git", fontAwesomeClassname: "fab fa-git-alt" },
+    { skillName: "Docker", fontAwesomeClassname: "fab fa-docker" },
+    { skillName: "npm", fontAwesomeClassname: "fab fa-npm" }
+  ]
 };
 
 // Education Section
@@ -190,6 +148,31 @@ const techStack = {
 const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
+    {
+      role: "Intern Software Engineer (Frontend & Sales Engineer)",
+      company: "Syncraft PVT LTD",
+      companylogo: require("./assets/images/syncraft.jfif"), 
+      date: "Nov 2025 – Present",
+      desc: "Worked as a Frontend and Sales Engineer, developing custom software solutions and bridging the gap between technical teams and clients.",
+      descBullets: [
+        "Developed and deployed a custom POS system (Physio Billing System) utilizing Java to streamline business operations",
+        "Handled frontend development tasks to ensure user-friendly, responsive interfaces",
+        "Bridged the gap between technical development and client requirements as a Sales Engineer, ensuring software solutions met exact business needs"
+      ]
+    },
+    {
+      role: "Freelance Web Developer & Server Administrator",
+      company: "Project-Based / Freelance",
+      companylogo: require("./assets/images/freelance.png"), 
+      date: "Jan 2024 – Present",
+      desc: "Developed custom WordPress websites, managed web hosting and server configurations, and implemented SEO strategies for various clients.",
+      descBullets: [
+        "Developed multiple custom WordPress websites across various niches, including E-Commerce, LMS, Tourism, and Corporate sites using custom coding",
+        "Managed web hosting, domain migrations, and server configurations using Verpex cPanel and WHM panels for dedicated servers",
+        "Implemented SEO best practices to improve website visibility and search engine rankings",
+        "Mapped subdomains to real domains and handled end-to-end deployment based on client requirements"
+      ]
+    },
     {
       role: "Wordpress Web Developer - Intern",
       company: "Uva Wellassa University",
@@ -273,6 +256,94 @@ const bigProjects = {
         {
           name: "Visit Website",
           url: "https://github.com/Ashen-Tharindu/Doctor-Appointment-Booking-System"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/pos.png"),
+      projectName: "Mobile POS & ERP System",
+      projectDesc: "A comprehensive Mobile POS & ERP System built for commercial use. Engineered with React.js, Node.js, Electron.js, and SQLite. Features include smart hardware integration for thermal printing, dual pricing state management, and full ERP modules for GRN and customer ledgers.",
+      footerLink: [
+        {
+          name: "View Live Demo",
+          url: "https://mobile-pos-demo2026.netlify.app"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/ceylontour.png"),
+      projectName: "CeylonTour - Next-Gen Travel App",
+      projectDesc: "A high-performance luxury travel SPA designed with React.js and Tailwind CSS v4. Features a cinematic video hero section, an SVG-based holographic map, a virtual 360° panoramic viewer, and an AI smart assistant for real-time travel inquiries.",
+      footerLink: [
+        {
+          name: "View Live Site",
+          url: "https://ceylontour-ashen-2026.netlify.app/"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/ceyloniq.png"),
+      projectName: "Ceylon'q Travels",
+      projectDesc: "A custom-coded, highly responsive tourism website built from scratch using HTML5, CSS3, and JavaScript. Implemented advanced scroll animations, glassmorphism UI, and direct WhatsApp API integration for instant lead generation.",
+      footerLink: [
+        {
+          name: "View Live Site",
+          url: "https://ceyloniqtravels.com"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/crowntours.png"),
+      projectName: "Crown Tours Sri Lanka",
+      projectDesc: "A WordPress-based travel platform where I developed a fully custom-coded tour booking system and executed a comprehensive technical SEO strategy. Optimized Core Web Vitals, improved page load speeds, and structured schema markups to boost organic traffic.",
+      footerLink: [
+        {
+          name: "View Live Site",
+          url: "https://crowntourssrilanka.com"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/drtproperties.png"),
+      projectName: "DRT Properties",
+      projectDesc: "A real estate website built using WordPress, enhanced with custom code implementations and fundamental SEO strategies to improve search engine visibility and user experience.",
+      footerLink: [
+        {
+          name: "View Live Site",
+          url: "https://drtproperties.lk"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/webspark.png"),
+      projectName: "WebSpark",
+      projectDesc: "A dynamic and responsive website developed on the WordPress platform, integrating custom-coded solutions to meet specific client requirements and ensure a tailored user interface.",
+      footerLink: [
+        {
+          name: "View Live Site",
+          url: "https://webspark.lk"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/portfolio.png"),
+      projectName: "Personal Portfolio",
+      projectDesc: "A responsive developer portfolio designed and built using React.js, JavaScript, HTML, CSS, Bootstrap, and SCSS to showcase modern front-end techniques, web applications, and software projects.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://ashen-tharindu.github.io/My_Portfolio/"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/superpos_desktop.jfif"),
+      projectName: "SuperPOS - Desktop Point of Sale",
+      projectDesc: "A robust, cross-platform desktop POS application engineered for retail using Electron.js, React.js, Tailwind CSS, and SQLite with Prisma ORM. Features include efficient offline checkout with barcode integration, role-based security, interactive analytics dashboards, and custom thermal printer configurations.",
+      footerLink: [
+        {
+          name: "View Project",
+          url: "https://github.com/Ashen-Tharindu/SPOS" 
         }
       ]
     }
