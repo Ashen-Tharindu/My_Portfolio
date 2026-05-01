@@ -1,28 +1,37 @@
 {
   "files": {
     "main.css": "/My_Portfolio/static/css/main.3b4e6599.css",
-    "main.js": "/My_Portfolio/static/js/main.68d3c1ea.js",
+    "main.js": "/My_Portfolio/static/js/main.02fabf98.js",
     "static/css/487.bb36206c.chunk.css": "/My_Portfolio/static/css/487.bb36206c.chunk.css",
     "static/js/487.50409013.chunk.js": "/My_Portfolio/static/js/487.50409013.chunk.js",
     "static/css/990.c6a7ee28.chunk.css": "/My_Portfolio/static/css/990.c6a7ee28.chunk.css",
     "static/js/990.859bc490.chunk.js": "/My_Portfolio/static/js/990.859bc490.chunk.js",
+    "static/media/ceyloniq.png": "/My_Portfolio/static/media/ceyloniq.c92022c3c23b10257e91.png",
+    "static/media/crowntours.png": "/My_Portfolio/static/media/crowntours.f596472134d855113089.png",
+    "static/media/drtproperties.png": "/My_Portfolio/static/media/drtproperties.c6844932a69964efded3.png",
+    "static/media/ceylontour.png": "/My_Portfolio/static/media/ceylontour.f308fea285bf0e4fec4e.png",
+    "static/media/webspark.png": "/My_Portfolio/static/media/webspark.d89f69601d8ca56fd1f9.png",
     "static/media/OSMS.png": "/My_Portfolio/static/media/OSMS.98a3078113491320c16f.png",
     "static/media/Montserrat-Regular.ttf": "/My_Portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/pos.png": "/My_Portfolio/static/media/pos.6f6860331820f622d278.png",
     "static/media/DABS.png": "/My_Portfolio/static/media/DABS.551c44e5fb21e132c735.png",
     "static/media/resume.pdf": "/My_Portfolio/static/media/resume.7194c14aac2a3399621f.pdf",
+    "static/media/portfolio.png": "/My_Portfolio/static/media/portfolio.0df4729df1a26684aa72.png",
     "static/media/CMS.png": "/My_Portfolio/static/media/CMS.89826c5a04e71140b751.png",
     "static/media/OLMS.png": "/My_Portfolio/static/media/OLMS.4262529a39cd9af4aabf.png",
     "static/media/Uom.png": "/My_Portfolio/static/media/Uom.4ac81fce801bfb7352f0.png",
     "static/media/Agustina.woff": "/My_Portfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/superpos_desktop.jfif": "/My_Portfolio/static/media/superpos_desktop.140bf5f43c6e4d18b074.jfif",
     "static/media/manOnTable.svg": "/My_Portfolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
     "static/media/contactMailDark.svg": "/My_Portfolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
     "static/media/developerActivity.svg": "/My_Portfolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
     "static/media/UoVT.png": "/My_Portfolio/static/media/UoVT.c1f5dae62e9ae4fd5f84.png",
     "static/media/ATL.png": "/My_Portfolio/static/media/ATL.7ee773634c32b418991f.png",
+    "static/media/syncraft.jfif": "/My_Portfolio/static/media/syncraft.6c9bf6efe55b42435a68.jfif",
     "static/media/skill.svg": "/My_Portfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "index.html": "/My_Portfolio/index.html",
     "main.3b4e6599.css.map": "/My_Portfolio/static/css/main.3b4e6599.css.map",
-    "main.68d3c1ea.js.map": "/My_Portfolio/static/js/main.68d3c1ea.js.map",
+    "main.02fabf98.js.map": "/My_Portfolio/static/js/main.02fabf98.js.map",
     "487.bb36206c.chunk.css.map": "/My_Portfolio/static/css/487.bb36206c.chunk.css.map",
     "487.50409013.chunk.js.map": "/My_Portfolio/static/js/487.50409013.chunk.js.map",
     "990.c6a7ee28.chunk.css.map": "/My_Portfolio/static/css/990.c6a7ee28.chunk.css.map",
@@ -30,6 +39,6 @@
   },
   "entrypoints": [
     "static/css/main.3b4e6599.css",
-    "static/js/main.68d3c1ea.js"
+    "static/js/main.02fabf98.js"
   ]
 }
