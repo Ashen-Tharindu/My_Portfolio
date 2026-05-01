@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/My_Portfolio/static/css/main.3b4e6599.css",
-    "main.js": "/My_Portfolio/static/js/main.02fabf98.js",
+    "main.js": "/My_Portfolio/static/js/main.d7e2d87d.js",
     "static/css/487.bb36206c.chunk.css": "/My_Portfolio/static/css/487.bb36206c.chunk.css",
     "static/js/487.50409013.chunk.js": "/My_Portfolio/static/js/487.50409013.chunk.js",
     "static/css/990.c6a7ee28.chunk.css": "/My_Portfolio/static/css/990.c6a7ee28.chunk.css",
@@ -16,7 +16,7 @@
     "static/media/pos.png": "/My_Portfolio/static/media/pos.6f6860331820f622d278.png",
     "static/media/DABS.png": "/My_Portfolio/static/media/DABS.551c44e5fb21e132c735.png",
     "static/media/resume.pdf": "/My_Portfolio/static/media/resume.7194c14aac2a3399621f.pdf",
-    "static/media/portfolio.png": "/My_Portfolio/static/media/portfolio.0df4729df1a26684aa72.png",
+    "static/media/portfolio.png": "/My_Portfolio/static/media/portfolio.32d17ca0cf136b5286b9.png",
     "static/media/CMS.png": "/My_Portfolio/static/media/CMS.89826c5a04e71140b751.png",
     "static/media/OLMS.png": "/My_Portfolio/static/media/OLMS.4262529a39cd9af4aabf.png",
     "static/media/Uom.png": "/My_Portfolio/static/media/Uom.4ac81fce801bfb7352f0.png",
@@ -31,7 +31,7 @@
     "static/media/skill.svg": "/My_Portfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "index.html": "/My_Portfolio/index.html",
     "main.3b4e6599.css.map": "/My_Portfolio/static/css/main.3b4e6599.css.map",
-    "main.02fabf98.js.map": "/My_Portfolio/static/js/main.02fabf98.js.map",
+    "main.d7e2d87d.js.map": "/My_Portfolio/static/js/main.d7e2d87d.js.map",
     "487.bb36206c.chunk.css.map": "/My_Portfolio/static/css/487.bb36206c.chunk.css.map",
     "487.50409013.chunk.js.map": "/My_Portfolio/static/js/487.50409013.chunk.js.map",
     "990.c6a7ee28.chunk.css.map": "/My_Portfolio/static/css/990.c6a7ee28.chunk.css.map",
@@ -39,6 +39,6 @@
   },
   "entrypoints": [
     "static/css/main.3b4e6599.css",
-    "static/js/main.02fabf98.js"
+    "static/js/main.d7e2d87d.js"
   ]
 }
